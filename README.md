@@ -1,11 +1,11 @@
 # homebrew-tap
 
-Homebrew formulae for imWildCat tools.
+Homebrew formulae for MikeChongCan tools.
 
 ## Install
 
 ```bash
-brew tap imWildCat/tap
+brew tap MikeChongCan/tap
 brew install doc-crop
 ```
 
