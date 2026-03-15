@@ -10,7 +10,7 @@ class DocCrop < Formula
   # Build from source (used until releases are available)
   url "https://github.com/imWildCat/doc-preprocessing-cli.git",
       tag:      "v0.1.0",
-      revision: ""  # will be filled after tagging
+      revision: "37699940aab42724476f117464b2a65ca6e3f468"
   head "https://github.com/imWildCat/doc-preprocessing-cli.git", branch: "master"
   version "0.1.0"
 
